@@ -11,7 +11,10 @@ package javaapplication1;
  */
 public class NewClass1 {
     int a;
-    int kurde = 5;
+    int b;
     
-    int asd;
+    NewClass1(){
+        a=2;
+        b=3;
+    }
 }

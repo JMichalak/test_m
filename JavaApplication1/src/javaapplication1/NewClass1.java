@@ -10,5 +10,6 @@ package javaapplication1;
  * @author Kuba
  */
 public class NewClass1 {
-    
+    int a;
+    int b;
 }

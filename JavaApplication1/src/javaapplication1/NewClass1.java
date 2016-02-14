@@ -12,4 +12,9 @@ package javaapplication1;
 public class NewClass1 {
     int a;
     int b;
+    
+    public NewClass1(){
+        a=1;
+        b=2;
+    }
 }

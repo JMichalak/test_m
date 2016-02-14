@@ -15,7 +15,11 @@ public class Nodelist {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         //kurden
+
+        System.out.println("sasa");
+
     }
     
 }
